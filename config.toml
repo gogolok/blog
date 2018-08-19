@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Robert Gogolok"
+theme = "hugo-theme-cactus-plus"
