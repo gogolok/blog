@@ -2,3 +2,15 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Robert Gogolok"
 theme = "hugo-theme-cactus-plus"
+
+[params]
+  author = "Robert Gogolok"
+  twitter = "gogolok"
+  enableTwitterCard = true
+  iconFont = "font-awesome"
+
+# Add additional social link entries underneath
+[social]
+	facebook-square = "https://www.facebook.com/robert.gogolok"
+	twitter-square = "https://www.twitter.com/gogolok"
+	github-square = "https://www.github.com/gogolok"
