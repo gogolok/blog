@@ -1,6 +1,8 @@
 ---
 title: "Railswaycon 2012 Mobile Backends in Ruby on Rails"
 date: 2012-10-10T23:42:59+02:00
+tags:
+- Conference
 ---
 
 Julian Fischer Avarteq GmbH und Robert Gogolok Avarteq GmbH<br/>

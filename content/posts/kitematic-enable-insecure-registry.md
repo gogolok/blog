@@ -1,6 +1,8 @@
 ---
 title: "Enable Insecure Registry on Kitematic"
 date: 2016-02-09T23:47:55+02:00
+tags:
+- Docker
 ---
 
 In order to use an insecure registry with [Kitematic](https://kitematic.com/), you can follow the steps below:

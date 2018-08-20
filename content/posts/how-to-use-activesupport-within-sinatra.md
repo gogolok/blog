@@ -1,6 +1,9 @@
 ---
 title: "How to Use ActiveSupport Within Sinatra"
 date: 2014-08-15T23:36:32+02:00
+tags:
+- Ruby
+- Sinatra
 ---
 
 {{< highlight ruby >}}

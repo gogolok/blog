@@ -1,6 +1,8 @@
 ---
 title: "Euruko 2012 Trip Report"
 date: 2012-06-03T23:07:36+02:00
+tags:
+- Conference
 ---
 
 Last week, I was able to attend Euruko 2012 in Amsterdam with a few of my colleagues from [Avarteq](http://www.avarteq.de/). We arrived thursday night, hence we missed the boat party at thursday night.
