@@ -70,6 +70,13 @@ disqusShortname = "gogo"
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/robertgogolok/"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss"
+    weight = 6
+    url = "https://gogolok.github.io/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
 
 [languages]
     [languages.en]
