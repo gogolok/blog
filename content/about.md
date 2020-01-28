@@ -7,19 +7,23 @@ slug =  "about"
 
 Angaben gemäß § 5 TMG
 
+```
 Robert Gogolok
 Mühlentalblick 9
 66583 Spiesen-Elversberg
+```
 
 Kontakt:
-Telefon: 01234-789456
-Fax: 1234-56789
+```
 E-Mail: robertgogolok@yahoo.de
+```
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+```
 Robert Gogolok
 Mühlentalblick 9
 66583 Spiesen-Elversberg
+```
 
 Haftungsausschluss:
 
