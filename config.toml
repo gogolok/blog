@@ -93,3 +93,8 @@ disqusShortname = "gogo"
             name = "Blog"
             weight = 2
             url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
