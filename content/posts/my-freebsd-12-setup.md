@@ -15,6 +15,8 @@ For newer versions of FreeBSD I'll create a new post.
 **Disadvantages**:
 - manual setup
 
+## Update to Latest Stable Version
+
 ``` shell
 # freebsd-update fetch install
 # shutdown -r now
