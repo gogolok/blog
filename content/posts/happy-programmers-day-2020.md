@@ -24,3 +24,5 @@ and make a living with programming.
 I guess everybody should learn to program. It teaches you to think. I’m pretty
 sure I will teach my kids how to do it and you should do the same. Also, with
 programming or code, you can change the world for the better.
+
+{{< tweet 1304676151365963776 >}}
