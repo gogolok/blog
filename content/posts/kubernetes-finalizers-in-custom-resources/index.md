@@ -22,6 +22,8 @@ other external resources to handle the semantics of that resource. Those
 external resources should not live forever once the custom resource does not
 exist anymore.
 
+{{< figure src="container.jpg" alt="Shipping Container" >}}
+
 In the following text we’ll work with a custom resource example that represents
 a data service instance. That data service instance could be, for example an
 instance running a PostgreSQL database. That service instance might store data
