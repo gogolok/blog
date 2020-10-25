@@ -13,11 +13,15 @@ tags:
 
 # Introduction
 
-In the last blog post we provided an introduction to [Kubernetes Finalizers](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/#finalizers).
+In the [last blog post](https://gogolok.github.io/posts/kubernetes-finalizers-in-custom-resources/)
+we provided an introduction to [Kubernetes Finalizers](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/#finalizers).
+
 In the introduction we covered the basic mechanics of how finalizers allow
 controllers to implement asynchronous pre-delete hooks. Simply put they inform
 the Kubernetes control plane that an action needs to take place before
 Kubernetes garbage collection logic can be performed.
+
+{{< figure src="container.jpg" alt="Shipping Container" title="https://unsplash.com/@frankiefoto" >}}
 
 In this blog post we take finalizers a step further by performing the resulting
 actions of a resource deletion with the help of a custom controller.
