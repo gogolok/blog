@@ -35,7 +35,7 @@ Do you want to fetch and install it now? [y/N]:
 ```
 
 ```shell
-# vim /usr/local/etc/sudoers
+# vi /usr/local/etc/sudoers
 %wheel ALL=(ALL) ALL
 ```
 
