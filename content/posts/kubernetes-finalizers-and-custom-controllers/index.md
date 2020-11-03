@@ -137,7 +137,11 @@ serviceinstance.example.com/my-new-service-instance0 created
 
 The running controller adds the finalizer to the custom resource under the `metadata.finalizers` field.
 The finalizer is named `my-finalizer.example.com`. This can be seen after applying the resource with
-the following command: `kubectl get serviceinstance -o yaml`.
+the following command:
+
+```shell
+kubectl get serviceinstance -o yaml
+```
 
 You should now see the following included in the custom resource indicating
 that the controller has taken responsibility for the resource by inserting the
