@@ -82,15 +82,15 @@ spec:
     - si
 ```
 
-In this blog post we will be using a [custom controller](https://github.com/mkfdoherty/finalizers/)
+In this blog post we will be using a [custom controller](https://github.com/gogolok/kubernetes-controller-finalizers-example)
 to demonstrate how a controller can perform an action when notified about the
 pending deletion of a service instance.
 
 To use, clone the repository
 
 ```shell
-git clone https://github.com/mkfdoherty/finalizers.git
-cd finalizers
+git clone https://github.com/gogolok/kubernetes-controller-finalizers-example.git
+cd kubernetes-controller-finalizers-example
 ```
 and start the controller via:
 
