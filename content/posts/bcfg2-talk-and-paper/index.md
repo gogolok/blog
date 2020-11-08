@@ -5,11 +5,13 @@ tags:
 - Linux
 ---
 
-Gave a talk with Marko Jung in german about [bcfg2](http://bcfg2.org/).
+I gave a talk with Marko Jung in german about [bcfg2](http://bcfg2.org/).
 The talk was part of the [GUUG-Frühjahrsfachgespräch 2007](https://guug.de/veranstaltungen/ffg2007/abstracts.html#3_8_1)
 in Berlin.
 
-The german abstract says:
+There is also a [paper available](/posts/bcfg2-talk-and-paper/20070301-FFG2007-bcfg2-paper.pdf).
+
+The german abstract to the talk says:
 
 [Bcfg2](http://bcfg2.org) hilft Systemadministratoren eine konsistente, reproduzierbare und verifizierbare Spezifikation ihrer Systemumgebung zu erstellen und bietet mit Visualisierungs- und Reporting-Tools notwendige Werkzeuge für alltägliche administrative Aufgaben.
 
