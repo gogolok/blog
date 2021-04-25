@@ -129,3 +129,28 @@ $ rbenv install --list
 $ rbenv install 2.7.3
 $ rbenv global 2.7.3
 ```
+
+### Rails
+
+Compilation dependencies (sqlite3):
+
+```shell
+pkg install sqlite3 node yarn
+```
+
+```shell
+gem install rails
+```
+
+```shell
+bundle config build.sqlite3 --with-sqlite3-include=/usr/local/include --with-sqlite3-lib=/usr/local/lib
+
+rails new myapp
+cd myapp
+bin/rails server
+```
+
+### Issues
+
+- Puma had in the past an issue: https://github.com/puma/puma/commit/15b079439222e489915380021b9dca7b9fa5ff65
+  Should be fixed with puma gem version ``.
