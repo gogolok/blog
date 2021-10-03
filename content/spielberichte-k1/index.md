@@ -5,6 +5,15 @@ slug: spielberichte-k1
 
 Für K1 hab ich mir die Mühe gemacht und für einige Fußball-Spieltage Spielberichte geschrieben, die dann auch auf Facebook unter anderem veröffentlicht wurden.
 
+## 2021-10-02 - F-Jugend = 5. Spieltag Ommersheim
+
+5. Spieltag der männlichen F-Jugend
+
+Der Wettergott war dem Spieltag in Ommersheim am Samstag, 02.10.2021, wieder einmal gut gesonnen. Die Kinder waren gut gelaunt und der  Trainer Sascha Merker
+wieder mit von der Partie. Die ersten beiden Partien wurden richtig gut von den Jungs gespielt. Es waren sehr spannende zwei Matches für die Zuschauer. Das
+erste Spiel ging 0:0 unentschieden aus. Das zweite Spiel wurde durch ein Last Minute Tor für den Gegner entschieden. Die darauf folgenden zwei Spiele wurden
+trotz gutem Kampf verloren. Am nächsten Wochenende geht es in Bildstock mit dem nächsten Spieltag weiter.
+
 ## 2021-09-25 - F-Jugend - 4.Spieltag Oberbexbach
 
 4. Spieltag der männlichen F-Jugend
