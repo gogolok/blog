@@ -5,6 +5,17 @@ slug: spielberichte-k1
 
 Für K1 hab ich mir die Mühe gemacht und für einige Fußball-Spieltage Spielberichte geschrieben, die dann auch auf Facebook unter anderem veröffentlicht wurden.
 
+## 2021-09-25 - F-Jugend - 4.Spieltag Oberbexbach
+
+4. Spieltag der männlichen F-Jugend
+
+Am 25.09.2021 fand der 4. Spieltag der männlichen F-Jugend In Oberbexbach statt. Bei sehr warmen Temperaturen mussten heute vier aufeinander folgende Spiele
+gespielt werden. Des Weiteren wurden die  Kinder in Abwesenheit von Trainer Sascha Merker von zwei Vätern prima an der Seitenlinie betreut. Das erste Spiel
+ging gut los mit einem 0:0 Unentschieden. Kurz vor Schlusspfiff wurde in  dem Spiel leider  eine Großchance frei  vor dem Tor vergeben. Aber so war  es das
+fairere Ergebnis bei guter Leistung beider Mannschaften. Die nächsten beiden Spiele kämpfte man, aber man musste sich den an diesem Spieltag besser aufgelegten
+gegnerischen Mannschaften geschlagen geben. Im letzten Spiel zeigte man eine prima Leistung, ließ kaum Chancen der Gegner zu und konnte einen sicheren Sieg
+einfahren. So geht es motiviert am 02.10.21 mit dem nächsten Spiel in Ommersheim weiter.
+
 ## 2021-09-18 - F-Jugend - 3. Spieltag Wiebelskirchen
 
 3. Spieltag der männlichen F-Jugend
