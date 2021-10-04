@@ -5,7 +5,7 @@ slug: spielberichte-k1
 
 Für K1 hab ich mir die Mühe gemacht und für einige Fußball-Spieltage Spielberichte geschrieben, die dann auch auf Facebook unter anderem veröffentlicht wurden.
 
-## 2021-10-02 - F-Jugend = 5. Spieltag Ommersheim
+## 2021-10-02 - F-Jugend - 5. Spieltag Ommersheim
 
 5. Spieltag der männlichen F-Jugend
 
