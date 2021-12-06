@@ -5,6 +5,18 @@ slug: spielberichte-k1
 
 Für K1 hab ich mir die Mühe gemacht und für einige Fußball-Spieltage Spielberichte geschrieben, die dann auch auf Facebook unter anderem veröffentlicht wurden.
 
+## 2021-10-09 - F-Jugend - 6. Spieltag Bildstock
+
+6. Spieltag der männlichen F-Jugend
+
+Am 09.10.2021 hatte die männliche F-Jugend ihren 6. Spieltag in Bildstock. Das Wetter machte wie immer sehr gut mit. Im ersten Spiel stiegen die Jungs gut ein,
+jedoch wurden ab der 2. Hälfte die Bälle zu oft in die Mitte des Spielfelds bzw. direkt zum Gegner geradezu gepasst, so dass das gegnerische Team leichtes Spiel
+hatte und das Spiel auf Grund der konstanteren Leistung doch locker gewann. Auch das zweite Spiel wurde verloren. Wieder kam in der 2. Hälfte ein kleinerer
+Einbruch, die Konzentration war weg und mit mehr oder weniger der einzigen Chance konnte der Gegner siegen. Das dritte Spiel gestaltete sich sehr ausgeglichen.
+Vielleicht konnte man leichte Vorteil bei unseren Jungs sehen, aber der Ball wollte trotz super Einsatz einfach nicht ins Netz und so trennte man sich 0:0
+Untentschieden. Im vierten Spiel lief es wieder mal ganz gut bis zur Mitte des Spiels, dann kam erneut ein Einbruch und das Spiel ging verloren. Jetzt ist in
+den nächsten Tagen wieder Gelegenheit am Einsatz zu feilen, um in der Zukunft wieder mehr Punkte zu entführen.
+
 ## 2021-10-02 - F-Jugend - 5. Spieltag Ommersheim
 
 5. Spieltag der männlichen F-Jugend
