@@ -61,6 +61,11 @@ disqusShortname = ""
     weight = 1
     url = "https://github.com/gogolok/"
 [[params.social]]
+    name = "Gitlab"
+    icon = "fa fa-2x fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/gogolok/"
+[[params.social]]
     name = "Twitter"
     icon = "fa fa-2x fa-twitter"
     weight = 3
