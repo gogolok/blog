@@ -57,22 +57,22 @@ disqusShortname = ""
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-2x fa-github"
     weight = 1
     url = "https://github.com/gogolok/"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter"
+    icon = "fa fa-2x fa-twitter"
     weight = 3
     url = "https://twitter.com/gogolok/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-2x fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/robertgogolok/"
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss"
+    icon = "fa fa-2x fa-rss"
     weight = 6
     url = "https://gogolok.github.io/index.xml"
     rel = "alternate"
