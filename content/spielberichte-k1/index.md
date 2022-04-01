@@ -5,6 +5,13 @@ slug: spielberichte-k1
 
 Für K1 hab ich mir die Mühe gemacht und für einige Fußball-Spieltage Spielberichte geschrieben, die dann auch auf Facebook unter anderem veröffentlicht wurden.
 
+## 2022-03-26 - F-Jugend - 2. Spieltag Bildstock
+
+Männliche F-Jugend: Keine Punkte in Bildstock
+
+Der 2. Spieltag im neuen Jahr fand am Samstag, 26.03.2022, für die F-Jugend in Bildstock statt.
+Bei sehr schönem sonnigen Wetter war jedoch nicht viel drin. Zwei Spiele wurden klar verloren. Die zwei weiteren Spiele wurden jeweils mit 0:1 abgegeben, wobei eins davon in der 19. (!) Spielminute irregulär verloren wurde, da der Treffer durch einen weiten Abschlag kurz vor das Tor der Spieser Jungs eingeleitet wurde. Wie dem auch sei, für den nächsten Spieltag müssen noch einige Jungs aus dem Winterschlaf aufwachen und dann folgen sicherlich wieder Siege.
+
 ## 2021-10-09 - F-Jugend - 6. Spieltag Bildstock
 
 6. Spieltag der männlichen F-Jugend
