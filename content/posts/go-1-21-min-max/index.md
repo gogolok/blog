@@ -16,3 +16,14 @@ Only a **fixed number of arguments** is supported.
 Go needs to know the number of arguments at compile time.
 
 {{< figure src="min-max-error.png" alt="min max error" title="" >}}
+
+For **string arguments** the result for `min` is the first argument with the
+smallest (or for `max`, largest) value, compared lexically byte-wise.
+
+{{< figure src="min-max-strings.png" alt="min max shadow" title="" >}}
+
+These new built-ins **will not break your existing code** that already
+uses the names min and max. Built-ins aren’t keywords,
+so `min` and `max` can be shadowed however you like.
+
+{{< figure src="min-max-shadow.png" alt="min max shadow" title="" >}}
