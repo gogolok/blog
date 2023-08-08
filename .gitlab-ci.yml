@@ -19,7 +19,7 @@ default:
 
 pages:
   script:
-    - git submodule update --init --recursive
+    - git submodule update --init --recursive themes/hugo-coder
     - set '1 s/github/gitlab/' config.toml
     - hugo
   artifacts:
