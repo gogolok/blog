@@ -13,13 +13,10 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 variables:
   HUGO_ENV: production
 
-default:
-  before_script:
-    - rm -rf public
-
 pages:
   script:
     - git submodule update --init --recursive themes/hugo-coder
+    - rm -rf public
     - set '1 s/github/gitlab/' config.toml
     - hugo
   artifacts:
