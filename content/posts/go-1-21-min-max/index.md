@@ -1,7 +1,6 @@
 ---
 title: "Built-in min and max functions in Go 1.21"
-date: 2023-08-01T00:24:12+02:00
-draft: true
+date: 2023-08-08T07:47:12+02:00
 tags:
 - Go
 ---
