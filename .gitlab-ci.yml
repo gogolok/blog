@@ -1,0 +1,28 @@
+# https://gitlab.com/pages/hugo/-/blob/main/.gitlab-ci.yml
+#
+# Before using this .gitlab-ci.yml:
+#
+#   All available Hugo versions are listed under https://gitlab.com/pages/hugo/container_registry.
+# - Read about the difference between hugo and hugo_extended
+#   https://gitlab.com/pages/hugo/-/blob/main/README.md#hugo-vs-hugo_extended.
+# - To change the theme, see
+#   https://gitlab.com/pages/hugo/-/blob/main/README.md#use-a-custom-theme.
+#
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+
+variables:
+  HUGO_ENV: production
+
+default:
+  before_script:
+    - rm -rf public
+
+pages:
+  script:
+    - set '1 s/github/gitlab/' config.toml
+    - hugo
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
