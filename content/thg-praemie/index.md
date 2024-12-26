@@ -3,10 +3,22 @@ title: THG-Prämie
 slug: thg-praemie
 ---
 
-Wir besitzen ein E-Auto. Folgende THQ-Prämien haben wir bisher verdient:
+Wir besitzen zwei E-Autos.
+
+Folgende THQ-Prämien haben wir bisher verdient:
+
+## Auto 1
 
 | Jahr | Anbieter   | Typ | Betrag |
 |------|------------|--------|---
 | 2022 | Geld für eAuto | Fix | 400 |
 | 2023 | Geld für eAuto | Fix | 250 |
 | 2024 | ADAC | Fix | 120 |
+
+## Auto 2
+
+| Jahr | Anbieter   | Typ | Betrag |
+|------|------------|--------|---
+| 2024 | ADAC | Fix | 120 |
+
+
