@@ -19,6 +19,6 @@ Folgende THQ-Prämien haben wir bisher verdient:
 
 | Jahr | Anbieter   | Typ | Betrag |
 |------|------------|--------|---
-| 2024 | ADAC | Fix | 120 |
+| 2024 | ADAC | Fix | 110 |
 
 
