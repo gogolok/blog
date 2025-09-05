@@ -17,7 +17,7 @@ pages:
   script:
     - git submodule update --init --recursive themes/hugo-coder
     - rm -rf public
-    - sed -i '1 s/github/gitlab/' config.toml
+    - sed -i '1 s/github/gitlab/' hugo.toml
     - hugo
   artifacts:
     paths:
