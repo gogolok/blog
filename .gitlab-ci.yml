@@ -8,7 +8,7 @@
 # - To change the theme, see
 #   https://gitlab.com/pages/hugo/-/blob/main/README.md#use-a-custom-theme.
 #
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+image: hugomods/hugo:exts
 
 variables:
   HUGO_ENV: production
