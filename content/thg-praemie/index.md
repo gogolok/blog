@@ -15,6 +15,7 @@ Folgende THQ-Prämien haben wir bisher verdient:
 | 2023 | Geld für eAuto | Fix | 250 |
 | 2024 | ADAC | Fix | 120 |
 | 2025 | E-GELD24 | Fix | 87 |
+| 2026 | Quotlix | Fix | 315 |
 
 ## Auto 2
 
@@ -22,5 +23,7 @@ Folgende THQ-Prämien haben wir bisher verdient:
 |------|------------|--------|---
 | 2024 | ADAC | Fix | 110 |
 | 2025 | E-GELD24 | Fix | 87 |
+| 2025 | E-GELD24 | Fix | 87 |
+| 2026 | Carbonify | Fix | 298 |
 
 
