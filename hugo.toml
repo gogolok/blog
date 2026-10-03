@@ -3,7 +3,7 @@ title = "gogolok"
 
 theme = "hugo-coder"
 
-languagecode = "en"
+locale = "en"
 defaultcontentlanguage = "en"
 
 canonifyurls = true
@@ -92,7 +92,7 @@ pagerSize = 20
 
 [languages]
     [languages.en]
-        languagename = "English"
+        label = "English"
 
         [languages.en.menu]
 
